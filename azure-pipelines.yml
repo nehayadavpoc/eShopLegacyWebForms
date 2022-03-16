@@ -8,9 +8,7 @@ trigger:
 
 pool:
   name: Azure Pipelines
-  demands:
-  - msbuild
-  - visualstudio
+  
 
 variables:
   solution: '**/*.sln'
