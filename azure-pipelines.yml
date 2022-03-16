@@ -8,7 +8,6 @@ trigger:
 
 pool:
   name: Azure Pipelines
-  
 
 variables:
   solution: '**/*.sln'
